@@ -1,0 +1,2 @@
+<!ELEMENT words (word*)>
+<!ELEMENT word (#PCDATA)>
